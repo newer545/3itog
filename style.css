@@ -1,0 +1,33 @@
+body {
+    background-color: #f9f9ff;
+    font-family: 'Comic Neue', cursive, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #4a90e2;
+}
+
+h2 {
+    color: #5c6bc0;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+p, li {
+    font-size: 18px;
+}
